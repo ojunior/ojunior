@@ -1,0 +1,6 @@
+Keystore credentials
+  Keystore password: f7cd8625da004d4aa69fbe68b9b2be3c
+  Key alias:         QG9kZWlkZW1vcmVpcmEvdGV4dG8=
+  Key password:      d0ab0c8299ea427c8f91a91ef7aac44a
+
+  Path to Keystore:  C:\projetos\dev\texto\texto\texto.jks
